@@ -11,7 +11,7 @@ Fonts are separated by a & */
   --accent2-color: #2E4B02;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Courier New (Monospace)", "Brush Script MT";
+  --heading-font: "Courier New", "Brush Script MT";
   --paragraph-font: Garamond, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
