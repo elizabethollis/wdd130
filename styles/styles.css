@@ -1,0 +1,26 @@
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
+
+footer p {
+    font-size: 20px;
+    margin: 20px auto;}
+
+ a:hover {
+    background-color: white;
+    color: steelblue;
+    }
+/* Body Margin 0 gets rid of the white border on the whole webpage
+try using percents instead of pixles for image sizing for better platform transfering
+Star applies to literally everything on the page
+Border require
+    width
+    type
+    color
+
+text allign center will center pictures too. just keep going up a level until it works
+    won't allign for inline stull that's why you have to go up a level
+
+
