@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: grey;
+}
+
+.img{
+    border: 10px solid black;
+    max-width: 20%;
+    margin: 5% 2.5%;
+    border-radius: 100%;
+}
+
+.grey{
+    background-color: grey;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#hero-img{
+    max-width: 100%;
+}
